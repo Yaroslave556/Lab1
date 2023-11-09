@@ -1,0 +1,29 @@
+
+body {
+    background-color: #00FA9A;
+}
+
+
+button {
+    width: 34px;
+}
+
+
+h1 {
+    color: #708090;
+}
+
+
+p {
+    font-size: 34pt;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+/* Стиль для ячеек td и th */
+td, th {
+    border: 1px solid black;
+}
